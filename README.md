@@ -1,4 +1,4 @@
-# VIVEK'S GAMING APPLICATION
+#  GAMING Web Application
 
 ## Description
 
